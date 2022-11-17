@@ -111,7 +111,7 @@ It should look like this:
 'newyear': True
 ```
 
-- Now we need to add some styling to the html, so our case, we'll be creating a new folder called static inside the newyear folder and then create another folder called newyear and inside of it our style.css file.
+- Now we need to add some styling to the html, so in our case, we'll be creating a new folder called static inside the newyear folder and then create another folder called newyear and inside of it our style.css file.
 
 - Once our style is done we go back to our index file and make sure to add the link:css to the index.html file and since we are using <a href="https://docs.djangoproject.com/en/4.1/howto/static-files/">static files</a> from django we have to do it like this:
 
